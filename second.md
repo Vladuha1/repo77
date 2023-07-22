@@ -4,4 +4,4 @@ x=3
 
 print(x)
 
-print(True and False)
+print(x+1)
