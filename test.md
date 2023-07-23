@@ -4,4 +4,4 @@ my first code
 
 some python function
 
-i am old senior and i want more millions
+there is info from main
