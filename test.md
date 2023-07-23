@@ -4,4 +4,4 @@ my first code
 
 some python function
 
-there is info from main 
+there is info from main
