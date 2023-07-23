@@ -4,3 +4,4 @@ my first code
 
 some python function
 
+i am young junior and i want more money
