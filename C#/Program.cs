@@ -155,7 +155,7 @@
 
 // Второе решение (кратно только одному числу)
 
-Console.WriteLine("Введите число number");
+Console.Write("Введите число : ");
 int number = Convert.ToInt32(Console.ReadLine());
 int result1 = number % 7;
 int result2 = number % 23;
