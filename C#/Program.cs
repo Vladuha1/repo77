@@ -155,21 +155,25 @@
 
 // Второе решение (кратно только одному числу)
 
-Console.Write("Введите число : ");
-int number = Convert.ToInt32(Console.ReadLine());
-int result1 = number % 7;
-int result2 = number % 23;
-if (result1 == 0 && result2 == 0)
-    Console.WriteLine($"{number} -> да");
-else if (result1 == 0 || result2 == 0)
-{
-    if(result1==0)
-        Console.WriteLine($"{number} -> кратно только 7");
-    else
-        Console.WriteLine($"{number} -> кратно только 23");
-}
-else
-    Console.WriteLine($"{number} -> нет");
+// Console.Write("Введите число : ");
+// int number = Convert.ToInt32(Console.ReadLine());
+// int result1 = number % 7;
+// int result2 = number % 23;
+// if (result1 == 0 && result2 == 0)
+//     Console.WriteLine($"{number} -> да");
+// else if (result1 == 0 || result2 == 0)
+// {
+//     if(result1==0)
+//         Console.WriteLine($"{number} -> кратно только 7");
+//     else
+//         Console.WriteLine($"{number} -> кратно только 23");
+// }
+// else
+//     Console.WriteLine($"{number} -> нет");
+
+
+
+
 
 
 
