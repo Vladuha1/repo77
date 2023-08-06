@@ -78,3 +78,44 @@
 //     System.Console.WriteLine("Обе цифры этого числа равны");
 // else
 //     System.Console.WriteLine($"Наибольшая цифра этого числа это {digit2}");
+
+
+
+// for (int i = 0; i < 11; i++)
+//     Console.Write($"{i} ");
+
+
+
+// Напишите программу, которая выводит случайное трехзначное число и удаляет вторую цифру этого числа.
+
+// 456 -> 46
+// 782 -> 72
+// 918 -> 98
+
+// int num = new Random().Next(100, 999);
+// System.Console.WriteLine($"Было сгенерировано число {num}");
+// int num1 = num / 100;
+// int num3 = num % 10;
+// System.Console.WriteLine(num1 + "" + num3);
+
+
+
+// Напишите программу, которая будет принимать на вход два числа и выводить, является ли второе число кратным первому. Если число 2 не кратно числу 1, то программа выводит остаток от деления.
+
+// 34, 5 -> не кратно, остаток 4 
+// 16, 4 -> кратно
+
+// Console.WriteLine("Write integer number 1");
+// int num1 = Convert.ToInt32(Console.ReadLine());
+
+// Console.WriteLine("Write integer number 2");
+// int num2 = Convert.ToInt32(Console.ReadLine());
+
+// int result = num1 % num2;
+// if (result == 0)
+//     Console.WriteLine("кратно");
+// else
+//     Console.WriteLine($"не кратно, остаток {result}");
+
+
+
