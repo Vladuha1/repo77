@@ -92,7 +92,7 @@
 // 782 -> 72
 // 918 -> 98
 
-// int num = new Random().Next(100, 999);
+// int num = new Random().Next(100, 1000);
 // System.Console.WriteLine($"Было сгенерировано число {num}");
 // int num1 = num / 100;
 // int num3 = num % 10;
@@ -107,10 +107,8 @@
 
 // Console.WriteLine("Write integer number 1");
 // int num1 = Convert.ToInt32(Console.ReadLine());
-
 // Console.WriteLine("Write integer number 2");
 // int num2 = Convert.ToInt32(Console.ReadLine());
-
 // int result = num1 % num2;
 // if (result == 0)
 //     Console.WriteLine("кратно");
