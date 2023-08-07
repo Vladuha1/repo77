@@ -24,7 +24,7 @@
 // {
 //     Console.Write($"{i} ");
 //     i = i + 1;
-//     //i++;
+//     i++;
 // }
 // System.Console.WriteLine();
 
